@@ -1,5 +1,5 @@
 'use strict';
-
+//peer to peer call
 const callPc1Button = document.getElementById('call_pc1');
 const callPc2Button = document.getElementById('call_pc2');
 const disconnectButton = document.getElementById('disconnect');
